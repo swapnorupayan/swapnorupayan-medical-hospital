@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Diagnose & Research",
+        "price": "5000",
+        "description": "It refers to knowing (“gnosis”) about the health of a client. Typically, diagnostic research focuses on estimating the sensitivity and specificity of individual diagnostic tests, their predictive values, and other parameters of interest (such as likelihood ratios, ROC curves, test reliability).",
+        "img": "https://i.ibb.co/JjrJkN8/General-practitioner-and-young-nurse-wearing-surgical-face-mask-against-covid-19-while-having-a-disc.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dental Surgery",
+        "price": "6000",
+        "description": "What does this mean? Major dental care refers to services that are more extensive than fillings or root canals. These types of services can include treatments such as dental crowns, dental bridges, and dentures – services that replace damaged or missing teeth.",
+        "img": "https://i.ibb.co/KGDH5xB/5.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Diagnose & Research",
+        "price": "5000",
+        "description": "It refers to knowing (“gnosis”) about the health of a client. Typically, diagnostic research focuses on estimating the sensitivity and specificity of individual diagnostic tests, their predictive values, and other parameters of interest (such as likelihood ratios, ROC curves, test reliability).",
+        "img": "https://i.ibb.co/7SyJyZd/6.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Drug / Medicine",
+        "price": "4000",
+        "description": "When treating depression, several drugs are available. Some of the most commonly used include: Selective serotonin reuptake inhibitors (SSRIs), such as citalopram (Celexa), escitalopram oxalate (Lexapro), fluoxetine (Prozac), fluvoxamine (Luvox), paroxetine HRI (Paxil), and sertraline (Zoloft).",
+        "img": "https://i.ibb.co/dWTwhWm/7.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Endocrinology",
+        "price": "7000",
+        "description": "Endocrinology is the study of hormones. Hormones are essential for our every-day survival. They control our temperature, sleep, mood, stress, growth and more. An endocrinologist is a doctor that treats diseases related to problems with hormones. A hormone is a chemical messenger that travels from one cell to another.",
+        "img": "https://i.ibb.co/vsfLKrn/1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pregnancy & Births",
+        "price": "3000",
+        "description": "Supporting Australian parents on the journey from pregnancy to preschool. Speak to a maternal child health nurse for personal advice and guidance. Discover more about pregnancy, birth, being a parent and raising a child.",
+        "img": "https://i.ibb.co/7SyJyZd/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Craseb libero",
+        "price": "5000",
+        "description": "Admiration we are surrounded possession frequently them. Empilait acable heureuse capitale havresac nul etroites. Tours him route accable ecarter grand. Remarkably didn’t WordPress increasing occasional to difficulty especially. Known tiled he sorry joy balls. Bed sudden manner indeed now feebly. Bout avez was main jet. There are suivit bourse depuis. ",
+        "img": "https://i.ibb.co/JKC6Bx8/8.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Craety aweturna",
+        "price": "2000",
+        "description": "Admiration we are surrounded possession frequently them. Empilait acable heureuse capitale havresac nul etroites. Tours him route accable ecarter grand. Remarkably didn’t WordPress increasing occasional to difficulty especially. Known tiled he sorry joy balls. Bed sudden manner indeed now feebly. Bout avez was main jet. There are suivit bourse depuis",
+        "img": "https://i.ibb.co/sqVJxKh/10.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Lobortis euismod",
+        "price": "2500",
+        "description": "Admiration we are surrounded possession frequently them. Empilait acable heureuse capitale havresac nul etroites. Tours him route accable ecarter grand. Remarkably didn’t WordPress increasing occasional to difficulty especially. Known tiled he sorry joy balls. Bed sudden manner indeed now feebly. Bout avez was main jet. There are suivit bourse depuis.",
+        "img": "https://i.ibb.co/pdkK7Gw/9.jpg"
+    }
+]
